@@ -1,1 +1,1 @@
-This changes was made in dev branch
+This changes is for practice Task 6
